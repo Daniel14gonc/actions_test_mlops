@@ -1,0 +1,12 @@
+CICD.pdf
+requirements.txt
+setup.py
+.github/workflows/train_model.yaml
+train_ml_package/__init__.py
+train_ml_package/training.py
+train_ml_package.egg-info/PKG-INFO
+train_ml_package.egg-info/SOURCES.txt
+train_ml_package.egg-info/dependency_links.txt
+train_ml_package.egg-info/entry_points.txt
+train_ml_package.egg-info/requires.txt
+train_ml_package.egg-info/top_level.txt
